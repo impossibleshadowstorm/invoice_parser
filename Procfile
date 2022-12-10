@@ -1,0 +1,1 @@
+web gunicorn invoice_orc.wsgi:application --log-file -
